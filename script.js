@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "afirmação"
+                afirmacao: "AAAAAAAAAAAAAAAAAAAAAA"
             }
         ]
     },
@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                afirmacao: "BLA BLA BLA BLA "
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                afirmacao: "jhjhjhjhjh"
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                afirmacao: "jhjhjhjhj"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                afirmacao: "hjhjjjjjjjjjjj"
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                afirmacao: "hhhhhhhhhhhhhhhhhhhhhhhhhh"
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                afirmacao: "kkkkkkkkkkkkkkkkkk"
             },
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                afirmacao: "llllllllllllllllll"
             }
         ]
     },
